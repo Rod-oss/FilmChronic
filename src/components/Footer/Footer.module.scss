@@ -1,0 +1,24 @@
+@import '../../assets/scss/colors';
+
+.footer {
+   background-color: $--color-azul;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footerContent {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: $--color-blanco ;
+  }
+  
+  .footerLogo {
+    max-width: 192px; 
+    margin-right: 20px; 
+
+  }
+
+  
