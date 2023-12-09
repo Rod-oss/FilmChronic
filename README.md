@@ -16,9 +16,9 @@ Bienvenido a la documentación de nuestro proyecto de e-commerce app web desarro
 
 A continuación, algunas capturas de pantalla que muestran la interfaz de usuario de la aplicación:
 
-<img src="../coderhouse-ecommerce-film/src/screenshots/screenshot-home.png" alt="Captura de Pantalla del home" width="400"/>
+<img src="./src/assets/screenshots/screenshot-home.png" alt="Captura de Pantalla del home" width="400"/>
 
-<img src="../coderhouse-ecommerce-film/src/screenshots/screenshot2.png" alt="Captura de Pantalla del detalle de producto" width="400"/>
+<img src="./src/assets/screenshots/screenshot2.png" alt="Captura de Pantalla del detalle de producto" width="400"/>
 
 ## Características Principales
 
