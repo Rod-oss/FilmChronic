@@ -12,7 +12,7 @@ Currently, two official plugins are available:
 
 Bienvenido a la documentación de nuestro proyecto de e-commerce app web desarrollado con React.js. Este proyecto es una aplicación web moderna diseñada para facilitar la compra y venta de productos de manera intuitiva y eficiente. En esta ocasión, el proyecto a consistido en la creación de la tienda Film Chronic. Además, en la creación de este proyecto se utilizó firebase para la creación de una base datos.
 
-## Capturas de Pantalla
+## Capturas de Pantalla:
 
 A continuación, algunas capturas de pantalla que muestran la interfaz de usuario de la aplicación:
 
